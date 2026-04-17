@@ -505,7 +505,7 @@ The dashboard surfaces the following evidence-based insights from the CDC data:
 │   └── Pediatric_Asthma_Dashboard.pbix                  ← Power BI file
 │
 └── 📁 docs/
-    └── dashboard_screenshot.png                         ← Dashboard preview
+    └── Pediatric_Asthma_Dashboard.pdf                   ← Dashboard preview
 ```
 
 ---
