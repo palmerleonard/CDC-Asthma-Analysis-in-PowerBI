@@ -88,8 +88,6 @@ The pipeline was built using **Claude AI** as the transformation engine — repl
                                            ▼
                                     ┌──────────────┐
                                     │  Dashboard   │
-                                    │  6 Visuals   │
-                                    │  3 Slicers   │
                                     └──────────────┘
 ```
 
