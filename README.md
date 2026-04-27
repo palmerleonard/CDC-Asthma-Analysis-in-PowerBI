@@ -516,6 +516,3 @@ The dashboard surfaces the following evidence-based insights from the CDC data:
 > https://www.cdc.gov/nchs/hus/
 
 ---
-
-*ETL pipeline designed and executed using [Claude AI](https://claude.ai) — Anthropic's AI assistant.*
-*Dashboard built in Microsoft Power BI Desktop.*
